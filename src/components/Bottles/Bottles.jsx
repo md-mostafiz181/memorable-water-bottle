@@ -22,6 +22,7 @@ const Bottles = () => {
     }
     return (
         <div>
+            <h1>Its our Memorable bottles</h1>
             <h1>This is our available bottles : {bottles.length} </h1>
             <h2>Cart selected bottle : {cart.length} </h2>
 
